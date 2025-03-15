@@ -1,0 +1,146 @@
+[
+    {
+        "State Name": "Andaman and Nicobar Islands",
+        "ID": "AN"
+    },
+    {
+        "State Name": "Andhra Pradesh",
+        "ID": "AP"
+    },
+    {
+        "State Name": "Arunachal Pradesh",
+        "ID": "AR"
+    },
+    {
+        "State Name": "Assam",
+        "ID": "AS"
+    },
+    {
+        "State Name": "Bihar",
+        "ID": "BR"
+    },
+    {
+        "State Name": "Chandigarh",
+        "ID": "CH"
+    },
+    {
+        "State Name": "Chhattisgarh",
+        "ID": "CT"
+    },
+    {
+        "State Name": "Dadra and Nagar Haveli",
+        "ID": "DN"
+    },
+    {
+        "State Name": "Daman and Diu",
+        "ID": "DD"
+    },
+    {
+        "State Name": "Delhi",
+        "ID": "DL"
+    },
+    {
+        "State Name": "Goa",
+        "ID": "GA"
+    },
+    {
+        "State Name": "Gujarat",
+        "ID": "GJ"
+    },
+    {
+        "State Name": "Haryana",
+        "ID": "HR"
+    },
+    {
+        "State Name": "Himachal Pradesh",
+        "ID": "HP"
+    },
+    {
+        "State Name": "Jammu and Kashmir",
+        "ID": "JK"
+    },
+    {
+        "State Name": "Jharkhand",
+        "ID": "JH"
+    },
+    {
+        "State Name": "Karnataka",
+        "ID": "KA"
+    },
+    {
+        "State Name": "Kerala",
+        "ID": "KL"
+    },
+    {
+        "State Name": "Lakshadweep",
+        "ID": "LD"
+    },
+    {
+        "State Name": "Madhya Pradesh",
+        "ID": "MP"
+    },
+    {
+        "State Name": "Maharashtra",
+        "ID": "MH"
+    },
+    {
+        "State Name": "Manipur",
+        "ID": "MN"
+    },
+    {
+        "State Name": "Meghalaya",
+        "ID": "ML"
+    },
+    {
+        "State Name": "Mizoram",
+        "ID": "MZ"
+    },
+    {
+        "State Name": "Nagaland",
+        "ID": "NL"
+    },
+    {
+        "State Name": "Odisha",
+        "ID": "OR"
+    },
+    {
+        "State Name": "Puducherry",
+        "ID": "PY"
+    },
+    {
+        "State Name": "Punjab",
+        "ID": "PB"
+    },
+    {
+        "State Name": "Rajasthan",
+        "ID": "RJ"
+    },
+    {
+        "State Name": "Sikkim",
+        "ID": "SK"
+    },
+    {
+        "State Name": "Tamil Nadu",
+        "ID": "TN"
+    },
+    {
+        "State Name": "Telangana",
+        "ID": "TG"
+    },
+    {
+        "State Name": "Tripura",
+        "ID": "TR"
+    },
+    {
+        "State Name": "Uttar Pradesh",
+        "ID": "UP"
+    },
+    {
+        "State Name": "Uttarakhand",
+        "ID": "UT"
+    },
+    {
+        "State Name": "West Bengal",
+        "ID": "WB"
+    }
+]

@@ -67,7 +67,7 @@ def add_state():
     state_name = data.get('state_name')
     state_code = data.get('state_code')
 
-    # Validation for missing data
+
     if not state_name or not state_code:
         return jsonify({"error": "State name and code are required"}), 400
 
@@ -84,7 +84,7 @@ def add_state():
         "message": "State added successfully",
         "State_Name": new_state.state_name,
         "State_Code": new_state.state_code
-    }), 201
+    })
 
 # Scraping  for State Data
 url = "https://kb.bullseyelocations.com/article/60-india-state-codes"
@@ -115,7 +115,7 @@ if response.status_code == 200:
 with open('state_codes.json', 'w', encoding='utf-8') as file:
     json.dump(states, file, indent=4, ensure_ascii=False)
 
-print(f"✅ Successfully scraped {len(states)} states and saved to 'state_codes.json'")
+print(f"Successfully scraped {len(states)} states and saved to 'state_codes.json'")
 
 if __name__ == '__main__':
     app.run(debug=True)
